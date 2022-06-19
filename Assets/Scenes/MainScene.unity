@@ -1683,7 +1683,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0.6666667, g: 0.3529412, b: 0.47058824, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -5666,21 +5666,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02b4fb626d914d142ab4d8925a132c07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  buttonText1: {fileID: 2069010292}
-  buttonText2: {fileID: 2024662104}
-  buttonText3: {fileID: 1263413726}
-  buttonText4: {fileID: 1978555108}
-  buttonText5: {fileID: 1856045470}
-  buttonText6: {fileID: 831896116}
-  buttonText7: {fileID: 1840158216}
-  buttonText8: {fileID: 596682898}
-  buttonText9: {fileID: 1792234788}
-  buttonText10: {fileID: 2131571253}
-  buttonText11: {fileID: 785948763}
-  buttonText12: {fileID: 11690324}
-  buttonText13: {fileID: 1203639215}
-  buttonText14: {fileID: 1416717306}
-  buttonText15: {fileID: 1161361908}
+  button1: {fileID: 0}
+  button2: {fileID: 0}
+  button3: {fileID: 0}
+  button4: {fileID: 0}
+  button5: {fileID: 0}
+  button6: {fileID: 0}
+  button7: {fileID: 0}
+  button8: {fileID: 0}
+  button9: {fileID: 0}
+  button10: {fileID: 0}
+  button11: {fileID: 0}
+  button12: {fileID: 0}
+  button13: {fileID: 0}
+  button14: {fileID: 0}
+  button15: {fileID: 0}
   scoreLabel: {fileID: 137293764}
 --- !u!4 &1694759140
 Transform:
